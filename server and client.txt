@@ -1,0 +1,11 @@
+Client and server Communication
+=====================================
+Client and server communicate through the IP(Internet Protocol) Address. Client sends the request for the server to display a particular web page by using IP address
+of the server. Then server gives the response to the client.
+
+Why DNS is required
+====================
+
+DNS means Domain Name Server which converts the ip address to domain name. Suppose if we are having the url http://www.facebook.com.
+->When the client enters facebook.com the DNS converts the domain name to ip address and downloads the webpage to the local computer.
+->DNS is required because the client will be unable to enter the IP addresses every time to open a website as the IP addresses changes randomly
